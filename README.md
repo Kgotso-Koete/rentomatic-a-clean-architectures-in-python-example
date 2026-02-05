@@ -1,12 +1,17 @@
 # Rentomatic
 
-A demo implementation of a clean architecture in Python.
+This is my implementation of the "Rent-o-Matic" project as I followed along with the book **"Clean Architectures in Python"** by Leonardo Giordani.
 
-The goal of the "Rent-o-Matic" project is to create a simple search engine for a room renting company. Objects in the dataset (rooms) are described by some attributes and the search engine shall allow the user to set some filters to narrow the search. The system exposes a REST API and works with three types of storage system: in-memory database, Postgres, MongoDB.
+The goal of the project is to create a simple search engine for a room renting company using Clean Architecture principles. The system exposes a REST API and works with three types of storage systems: in-memory database, Postgres, and MongoDB.
 
-This is a companion repository for the book "Clean Architectures in Python" by Leonardo Giordani, published by Leanpub.
+### About the Book
 
-You can download the book [here](https://leanpub.com/clean-architectures-in-python).
+The book is an excellent resource for learning how to apply clean architecture concepts in a Pythonic way.
 
-The repository contains the **code for the second edition** of the book. If for some reasons you are still following the first edition you can find the code in the branch `first-edition`. The tags mentioned in the first edition still exists in that branch.
+- **Read for free**: [Clean Architectures in Python (The Digital Cat)](https://www.thedigitalcatbooks.com/pycabook-colophon/)
+- **Purchase the book**: [Leanpub - Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python)
+- **Original Code**: [pycabook/rentomatic (GitHub)](https://github.com/pycabook/rentomatic/tree/second-edition-top)
 
+### Credits
+
+A huge thank you to **Leonardo Giordani** for writing such an insightful book and providing a clear path to understanding architectural patterns in Python.
