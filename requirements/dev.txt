@@ -1,8 +1,7 @@
 -r test.txt
 pip
-punch.py
-wheel
-watchdog
-flake8
-Sphinx
-
+punch.py==2.0.0
+wheel==0.46.3
+watchdog==6.0.0
+flake8==7.3.0
+Sphinx==9.1.0
